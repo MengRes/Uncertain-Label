@@ -1,7 +1,7 @@
 # Uncertain-Label
 This repository includes the introduction to uncertain labels in Chest X-ray diagnosis. We'd like to provide the introduction of our paper and dataset below.
 
-## Paper Introduction
+The dataset introduction is updated to a new link: https://github.com/MengRes/MIMIC-CAD.
 
 
 
